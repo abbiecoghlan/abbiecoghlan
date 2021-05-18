@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abbie</h1>
+<h1>Hi 👋, I'm Abbie</h1>
 <h3>I’m a former speech-language pathologist and private practice founder turned Software Engineer.</h3>
 
 - 💡 My capstone project: [Habit Circle Demo](https://youtu.be/GRaE4yxGVP0) | [Frontend](https://github.com/abbiecoghlan/habit-circle-frontend) | [Backend](https://github.com/abbiecoghlan/habit-circle-backend)
