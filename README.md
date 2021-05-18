@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning:  **Python and Typescript**
 
-- 👨‍💻 All of my projects are available at: [abbiecoghlan.com](abbiecoghlan.com)
-
 - 💬 Ask me about:  **React hooks vs Redux, my projects, or my dog**
 
 - ⚡ Fun fact: **If I'm not on my computer I'm at the beach.**
+
+- 👨‍💻 All of my projects are available at: [abbiecoghlan.com](abbiecoghlan.com)
 
 - 📫 How to reach me:  **abbie.coghlan@gmail.com**
 
