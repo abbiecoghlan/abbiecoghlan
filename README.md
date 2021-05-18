@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abbie</h1>
 <h3>I’m a former speech-language pathologist and private practice founder turned Software Engineer.</h3>
 
-- 💡 My capstone project: [Habit Circle](https://youtu.be/GRaE4yxGVP0)
+- 💡 My capstone project: [Habit Circle Demo](https://youtu.be/GRaE4yxGVP0) | [Frontend](https://github.com/abbiecoghlan/habit-circle-frontend) | [Backend](https://github.com/abbiecoghlan/habit-circle-backend)
 
-- 📍 My first Javascript SPWA: [Geo Hunt](https://youtu.be/YsVwr-I-RNw)
+- 📍 My first Javascript SPWA: [Geo Hunt Demo](https://youtu.be/YsVwr-I-RNw) | [Frontend](https://github.com/abbiecoghlan/geo-hunt-frontend) | [Backend](https://github.com/abbiecoghlan/geo-hunt-backend)
 
 - 🌱 I’m currently learning:  **Python and Typescript**
 
