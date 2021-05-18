@@ -17,9 +17,9 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abbiecoghlan" target="blank"><img align="center" src="https://www.pikpng.com/pngl/m/304-3048215_linkedin-vector-reverse-vector-linkedin-icon-png-clipart.png" alt="abbiecoghlan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abbiecoghlan" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="abbiecoghlan" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
