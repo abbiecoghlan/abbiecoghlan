@@ -9,7 +9,7 @@
 
 - 💬 Ask me about:  **React hooks vs Redux, my projects, or my dog**
 
-- ⚡ Fun fact: **If I'm not on my computer I'm at the beach.**
+- ⚡ Fun fact: **If I'm not on my computer I'm at the beach**
 
 - 👨‍💻 All of my projects are available at: [abbiecoghlan.com](abbiecoghlan.com)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abbiecoghlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="abbiecoghlan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abbiecoghlan" target="blank"><img align="center" src="https://www.pikpng.com/pngl/m/304-3048215_linkedin-vector-reverse-vector-linkedin-icon-png-clipart.png" alt="abbiecoghlan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
