@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning:  **Python and Typescript**
 
-- 💬 Ask me about:  **React hooks vs Redux, my projects, or my dog**
+- 💬 Ask me about:  **How much I love React hooks, my favorite projects, or my dog**
 
 - ⚡ Fun fact: **If I'm not on my computer, I'm at the beach**
 
