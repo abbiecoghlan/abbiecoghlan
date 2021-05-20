@@ -5,7 +5,7 @@
 
 - 📍 My first Javascript SPWA: [Geo Hunt Demo](https://youtu.be/YsVwr-I-RNw) | [Frontend](https://github.com/abbiecoghlan/geo-hunt-frontend) | [Backend](https://github.com/abbiecoghlan/geo-hunt-backend)
 
-- 🚧 I'm currently working on: [Geo Hunt 2.0](https://github.com/abbiecoghlan/GeoHunt2.0-backend)
+- 🚧 I'm currently working on: **Geo Hunt 2.0** [Frontend](https://github.com/marcferraro/GeoHunt2.0-frontend) | [Backend](https://github.com/abbiecoghlan/GeoHunt2.0-backend) 
 
 - 🌱 I’m currently learning:  **Python and Typescript**
 
