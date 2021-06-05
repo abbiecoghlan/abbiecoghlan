@@ -7,7 +7,7 @@
 
 - 🚧 I'm currently working on: **Geo Hunt 2.0** [Frontend](https://github.com/marcferraro/GeoHunt2.0-frontend) | [Backend](https://github.com/abbiecoghlan/GeoHunt2.0-backend) 
 
-- 🌱 I’m currently learning:  **Python, Flask and Typescript**
+- 🌱 I’m currently learning:  **Python & Flask**
 
 - 💬 Ask me about:  **How much I love React hooks, my favorite projects, or my dog**
 
