@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **If I'm not on my computer, I'm at the beach**
 
-- 👨‍💻 All of my projects are available at: [abbiecoghlan.com](https://www.abbiecoghlan.com/)
+- 👨‍💻 All of my projects are available at: [abbiecoghlan.github.io](https://abbiecoghlan.github.io/)
 
 - 📫 How to reach me:  **abbie.coghlan@gmail.com**
 
