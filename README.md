@@ -1,21 +1,6 @@
 <h1>Hi 👋, I'm Abbie</h1>
-<h3>I’m a former speech-language pathologist and private practice founder turned Software Engineer.</h3>
+<h3>I’m a former speech-language pathologist and private practice founder turned Software Engineer. I use gitlab at work, but here you will find many of the projects I worked on when I first began my coding journey.</h3>
 
-- 💡 My capstone project: [Habit Circle Demo](https://youtu.be/GRaE4yxGVP0) | [Frontend](https://github.com/abbiecoghlan/habit-circle-frontend) | [Backend](https://github.com/abbiecoghlan/habit-circle-backend)
-
-- 📍 My first Javascript SPWA: [Geo Hunt Demo](https://youtu.be/YsVwr-I-RNw) | [Frontend](https://github.com/abbiecoghlan/geo-hunt-frontend) | [Backend](https://github.com/abbiecoghlan/geo-hunt-backend)
-
-- 🚧 I'm currently working on: **Geo Hunt 2.0** [Frontend](https://github.com/marcferraro/GeoHunt2.0-frontend) | [Backend](https://github.com/abbiecoghlan/GeoHunt2.0-backend) 
-
-- 🌱 I’m currently learning:  **Python & Flask**
-
-- 💬 Ask me about:  **How much I love React hooks, my favorite projects, or my dog**
-
-- ⚡ Fun fact: **If I'm not on my computer, I'm at the beach**
-
-- 👨‍💻 All of my projects are available at: [abbiecoghlan.github.io](https://abbiecoghlan.github.io/)
-
-- 📫 How to reach me:  **abbie.coghlan@gmail.com**
 
 <br>
 
