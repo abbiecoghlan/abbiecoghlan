@@ -13,7 +13,7 @@
 
 <br>
 
-<h3 align="left">Connect with me on LinkedIn: <a href="https://linkedin.com/in/abbiecoghlan" target="blank">Abbie Coghlan's Linkedin Profile</a> </h3>
+<h3 align="left">Connect with me on LinkedIn: <a href="https://linkedin.com/in/abbiecoghlan" target="blank">Abbie Coghlan</a> </h3>
 
 
 
