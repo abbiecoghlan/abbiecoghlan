@@ -13,10 +13,9 @@
 
 <br>
 
-<h3 align="left">Connect with me on LinkedIn:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abbiecoghlan" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="abbiecoghlan" height="40" width="40" /></a>
-</p>
+<h3 align="left">Connect with me on LinkedIn: <a href="https://linkedin.com/in/abbiecoghlan" target="blank">Abbie Coghlan's Linkedin Profile</a> </h3>
+
+
 
 
 
