@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Abbie</h1>
-<h3>I’m a former speech-language pathologist and private practice founder turned Software Engineer. I use gitlab at work, but here you will find many of the projects I worked on when I first began my coding journey.</h3>
+<h3>I’m a former speech-language pathologist and private practice founder turned Software Engineer.</h3>
+<h3>I use gitlab at work, but here you will find many of the projects I worked on when I first began my coding journey.</h3>
 
 
 <br>
